@@ -23,8 +23,8 @@ Esta es una solución al [desafío de página de recetas en Frontend Mentor](htt
 
 ### Enlaces
 
-- URL de la solución: [Agrega el enlace aquí](https://github.com/jeane-th/Pagina-de-recetas-fm)  
-- URL del sitio en vivo: [Agrega el enlace aquí](https://jeane-th.github.io/Pagina-de-recetas-fm/)  
+- URL de la solución: [Link](https://github.com/jeane-th/Pagina-de-recetas-fm)  
+- URL del sitio en vivo: [Link](https://jeane-th.github.io/Pagina-de-recetas-fm/)  
 
 ## Mi proceso
 
